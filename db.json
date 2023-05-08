@@ -1,1 +1,2155 @@
-
+{
+  "eta": {},
+  "tags": [
+    "SBI_RETIREE Sponsored Order",
+    "sbi_retiree",
+    "PO-Pharmacist Call"
+  ],
+  "user": {
+    "email": "rudradeepdas5@gmail.com",
+    "roles": {
+      "1mg": [
+        "ROLE_USER"
+      ]
+    },
+    "number": "9674713050",
+    "is_guest": false,
+    "username": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+    "verified": true,
+    "care_plan": null,
+    "suspended": false,
+    "corp_email": null,
+    "created_on": 1656477685,
+    "last_login": 1683123348,
+    "properties": {
+      "email_id": "rudradeepdas5@gmail.com",
+      "tcp_number": "6443339845511587",
+      "visitor_id": "8c6aa6ed-afb3-4621-c630-cb7234db3915_acce55_1637162855",
+      "name_details": "{\"salutation\": null, \"firstName\": null, \"middleName\": null, \"lastName\": null}",
+      "contact_number": "9674713050",
+      "is_corporate_user": "True",
+      "is_loyal_customer": "True",
+      "tata_customer_hash": "7635b754aac4cbedafdcee322bcbf29e",
+      "has_delivered_order": "True",
+      "tcp_registration_date": "2022-06-29 04:41:25"
+    },
+    "updated_on": 1683123348,
+    "external_id": "",
+    "is_migrated": false,
+    "is_corporate": true,
+    "suspended_on": null,
+    "display_number": "9674713050",
+    "email_verified": false,
+    "number_verified": true,
+    "corporate_client": "sbi_retiree",
+    "corporate_details": {
+      "id": "7e9e4910-1db8-4bb7-b7b9-12c7306792b4",
+      "name": "sbi_retiree",
+      "domains": [],
+      "end_time": "2024-01-15 18:29:17+00:00",
+      "logo_url": "https://onemg.gumlet.io/image/upload/q_auto,f_auto/corporate-logos/fbe8054145c442bd9d5df4a4778ea373.svg",
+      "start_time": "2023-01-19 11:05:07+00:00",
+      "coupon_code": "1MGALL",
+      "dashboard_url": "www.1mg.com/corporate/sbiretiree",
+      "is_coupon_applicable": true
+    },
+    "tata_customer_hash": "7635b754aac4cbedafdcee322bcbf29e",
+    "work_email_verified": null,
+    "display_alt_phone_number": "9674713050",
+    "has_successful_transactions": true,
+    "work_email_verified_timestamp": null
+  },
+  "email": "rudradeepdas5@gmail.com",
+  "device": "HealthKartPlus-16.10.0-android::android, Prescription Order",
+  "source": "sbi_retiree",
+  "status": "Waiting For Benefit Application",
+  "created": 1683175752,
+  "rx_data": null,
+  "shipped": false,
+  "updated": 1683176184,
+  "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+  "group_id": "PO12323173523905",
+  "order_id": "PO12323173523905",
+  "time_ago": "0 hours",
+  "least_eta": null,
+  "order_eta": null,
+  "parent_id": null,
+  "status_id": 190,
+  "can_be_paid": false,
+  "doctor_name": "t k majumdar,t k majumdar,Dr. Ramanjit Kaur,t k majumdar",
+  "event_group": null,
+  "order_lines": [
+    {
+      "sku": {
+        "fmcg": false,
+        "name": "Apresol Tablet",
+        "type": "allopathy",
+        "brand": "Apresol",
+        "price": 145.64,
+        "sku_id": 710503,
+        "drug_id": 211592,
+        "freebie": false,
+        "is_salt": false,
+        "is_combo": false,
+        "saleable": true,
+        "strength": "25mg",
+        "sub_type": null,
+        "available": true,
+        "drug_name": "Dihydralazine",
+        "is_banned": false,
+        "pediatric": false,
+        "attributes": [
+          {
+            "key": "category",
+            "value": "solids",
+            "display_name": "Category"
+          },
+          {
+            "key": "drug_form_plural",
+            "value": "tablets",
+            "display_name": "Drug form plural"
+          },
+          {
+            "key": "force_out_of_stock",
+            "value": false,
+            "display_name": "is salable"
+          },
+          {
+            "key": "item_size",
+            "value": 1,
+            "display_name": "Item Size"
+          },
+          {
+            "key": "item_unit",
+            "value": "",
+            "display_name": "Item unit"
+          },
+          {
+            "key": "is_otc",
+            "value": false,
+            "display_name": "sku otc tag"
+          },
+          {
+            "key": "is_banned",
+            "value": false,
+            "display_name": "sku banned flag"
+          },
+          {
+            "key": "prescription_required",
+            "value": true,
+            "display_name": "Prescription Required"
+          },
+          {
+            "key": "product_id",
+            "value": 26822,
+            "display_name": "Product id"
+          },
+          {
+            "key": "product_type",
+            "value": "allopathy",
+            "display_name": "Product Type"
+          },
+          {
+            "key": "sku_pack_form_plural_name",
+            "value": "strips",
+            "display_name": "Pack Form Plural"
+          },
+          {
+            "key": "sku_tag",
+            "value": "allopathy",
+            "display_name": "Sku type"
+          },
+          {
+            "key": "source",
+            "value": "1mg",
+            "display_name": "source"
+          },
+          {
+            "key": "storage_temperature",
+            "value": {
+              "id": 2,
+              "name": "Room Temperature",
+              "to_degree": 30,
+              "from_degree": 10,
+              "display_text": "Store below 30°C"
+            },
+            "display_name": "Storage Temperature"
+          },
+          {
+            "key": "units_in_pack",
+            "value": 15,
+            "display_name": "Units in Pack"
+          },
+          {
+            "key": "dosage_duration",
+            "value": "Chronic",
+            "display_name": "Dosage duration",
+            "item_attribute": true
+          },
+          {
+            "key": "drug_form",
+            "value": "Tablet",
+            "display_name": "Drug Form"
+          },
+          {
+            "key": "item_id",
+            "value": 211592,
+            "display_name": "Drug id",
+            "item_attribute": true
+          },
+          {
+            "key": "name",
+            "value": "Dihydralazine",
+            "display_name": "Drugs",
+            "item_attribute": true
+          },
+          {
+            "key": "other_strength",
+            "value": "25mg",
+            "display_name": "Other Strength"
+          },
+          {
+            "key": "pack_form",
+            "value": "strip",
+            "display_name": "Pack Form"
+          },
+          {
+            "key": "schedule",
+            "value": {
+              "id": "NS",
+              "name": "NS"
+            },
+            "display_name": "Schedule",
+            "item_attribute": true
+          },
+          {
+            "key": "strength",
+            "value": "25mg",
+            "display_name": "Strength"
+          },
+          {
+            "key": "symptoms",
+            "value": [],
+            "display_name": "Symptoms",
+            "item_attribute": true
+          },
+          {
+            "key": "therapeutic_class",
+            "value": {
+              "awacs": "CARDIOVASCULAR SYSTEM/CARDIAC/ANTIHYPERTENSIVES NON HERBAL PERIPHERALLY ACTING"
+            },
+            "display_name": "Therapeutic Class",
+            "item_attribute": true
+          },
+          {
+            "key": "child_drug_id",
+            "value": 432482,
+            "display_name": "Child Drug Id",
+            "item_attribute": true
+          }
+        ],
+        "image_urls": [
+          "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/p0glwiifmwu5tromgi8r.jpg"
+        ],
+        "is_visible": true,
+        "product_id": 26822,
+        "updated_at": 1682518136,
+        "l1_category": null,
+        "l2_category": null,
+        "pack_weight": 15,
+        "recommended": false,
+        "rx_required": true,
+        "consume_type": "Oral Route",
+        "infant_foods": false,
+        "manufacturer": {
+          "id": 72685,
+          "name": "Ordain Health Care Global Pvt Ltd"
+        },
+        "product_form": "Tablet",
+        "product_name": "Apresol Tablet",
+        "product_tags": [
+          "devices",
+          "fmcg"
+        ],
+        "selling_unit": 15,
+        "sub_category": "RX",
+        "is_returnable": true,
+        "min_order_qty": null,
+        "total_ratings": 0,
+        "units_in_pack": 15,
+        "allow_stamping": false,
+        "attributes_obj": {
+          "sku_tags": {
+            "value": [],
+            "display_name": "Sku Tags"
+          },
+          "risk_category": {
+            "value": "medium",
+            "display_name": "Risk Cateogry",
+            "item_attribute": true
+          },
+          "safety_advice": {
+            "value": null,
+            "display_name": "Safety Advice",
+            "item_attribute": true
+          },
+          "pharmacological_class": {
+            "value": "Potassium channel opener",
+            "display_name": "Pharmacological Class",
+            "item_attribute": true
+          }
+        },
+        "average_rating": 0,
+        "other_strength": "25mg",
+        "tax_definition": {
+          "cgst": 6,
+          "igst": 12,
+          "sgst": 6,
+          "utgst": 6,
+          "hsn_code": "30049099"
+        },
+        "child_skus_info": [],
+        "is_discontinued": false,
+        "otp_on_delivery": false,
+        "pack_size_label": "strip of 15 tablets",
+        "product_form_id": "pf_134",
+        "brand_primary_id": 32490,
+        "discounted_price": 116.51199999999999,
+        "onemg_cash_usage": [
+          {
+            "cash_type": "all",
+            "cash_percent": 8
+          }
+        ],
+        "business_category": {
+          "l1": {
+            "name": "RX"
+          },
+          "l2": {
+            "name": "CARDIAC"
+          },
+          "l3": {
+            "name": null
+          }
+        },
+        "product_form_info": {
+          "id": 134,
+          "name": "Tablet",
+          "name_plural": "tablets"
+        },
+        "supporting_fields": {
+          "is_psp": false,
+          "is_psp_dnd": false,
+          "is_nppa_regulated": false
+        },
+        "computed_unit_price": 8.933333333333334,
+        "dangerous_goods_tags": [],
+        "e_consult_applicable": true,
+        "is_coupon_applicable": true,
+        "prescription_required": false,
+        "prescription_verified": false,
+        "is_restricted_in_state": false,
+        "is_reward_point_eligible": true,
+        "prescription_check_required": false
+      },
+      "vas": [
+        {
+          "include": true,
+          "refundable": true,
+          "display_text": "Shipping Fee",
+          "is_mandatory": true,
+          "per_unit_sku_charge": 0,
+          "actual_per_unit_sku_charge": 0
+        },
+        {
+          "include": false,
+          "refundable": false,
+          "display_text": "Actual Shipping Fee",
+          "is_mandatory": false,
+          "per_unit_sku_charge": 0,
+          "actual_per_unit_sku_charge": 0
+        }
+      ],
+      "offer": {
+        "discount_percent": 0.2,
+        "unit_cart_item_mrp": 9.709333333333332,
+        "unit_offered_price": 7.767466666666666
+      },
+      "created": 1683175990,
+      "is_salt": false,
+      "updated": 1683176185,
+      "duration": null,
+      "quantity": 120,
+      "rx_mapping": {
+        "25976436": 1667260800000
+      },
+      "order_line_id": "710503",
+      "rapid_details": null,
+      "appointment_id": null,
+      "unit_vendor_mrp": 9.709333333333332,
+      "unit_current_mrp": 9.709333333333332,
+      "delivered_order_id": null,
+      "unit_cart_item_mrp": 9.709333333333332,
+      "unit_offered_price": 7.767466666666666,
+      "normalized_quantity": 8,
+      "prescription_status": "Ready for processing",
+      "prescription_verified": false,
+      "sku_validation_result": "",
+      "prescription_status_for_user": "Ready for processing"
+    },
+    {
+      "sku": {
+        "fmcg": false,
+        "name": "Diamicron XR 60 Tablet",
+        "type": "allopathy",
+        "brand": "Diamicron",
+        "price": 254.1,
+        "sku_id": 817710,
+        "drug_id": 209950,
+        "freebie": false,
+        "is_salt": false,
+        "is_combo": false,
+        "saleable": true,
+        "strength": "60mg",
+        "sub_type": null,
+        "available": true,
+        "drug_name": "Gliclazide",
+        "is_banned": false,
+        "pediatric": false,
+        "attributes": [
+          {
+            "key": "category",
+            "value": "solids",
+            "display_name": "Category"
+          },
+          {
+            "key": "drug_form_plural",
+            "value": "tablet xr",
+            "display_name": "Drug form plural"
+          },
+          {
+            "key": "force_out_of_stock",
+            "value": false,
+            "display_name": "is salable"
+          },
+          {
+            "key": "item_size",
+            "value": 1,
+            "display_name": "Item Size"
+          },
+          {
+            "key": "item_unit",
+            "value": "",
+            "display_name": "Item unit"
+          },
+          {
+            "key": "is_otc",
+            "value": false,
+            "display_name": "sku otc tag"
+          },
+          {
+            "key": "is_banned",
+            "value": false,
+            "display_name": "sku banned flag"
+          },
+          {
+            "key": "prescription_required",
+            "value": true,
+            "display_name": "Prescription Required"
+          },
+          {
+            "key": "product_id",
+            "value": 15541,
+            "display_name": "Product id"
+          },
+          {
+            "key": "product_type",
+            "value": "allopathy",
+            "display_name": "Product Type"
+          },
+          {
+            "key": "sku_pack_form_plural_name",
+            "value": "strips",
+            "display_name": "Pack Form Plural"
+          },
+          {
+            "key": "sku_tag",
+            "value": "allopathy",
+            "display_name": "Sku type"
+          },
+          {
+            "key": "source",
+            "value": "1mg",
+            "display_name": "source"
+          },
+          {
+            "key": "storage_temperature",
+            "value": {
+              "id": 2,
+              "name": "Room Temperature",
+              "to_degree": 30,
+              "from_degree": 10,
+              "display_text": "Store below 30°C"
+            },
+            "display_name": "Storage Temperature"
+          },
+          {
+            "key": "units_in_pack",
+            "value": 15,
+            "display_name": "Units in Pack"
+          },
+          {
+            "key": "dosage_duration",
+            "value": "Chronic",
+            "display_name": "Dosage duration",
+            "item_attribute": true
+          },
+          {
+            "key": "drug_form",
+            "value": "Tablet XR",
+            "display_name": "Drug Form"
+          },
+          {
+            "key": "item_id",
+            "value": 209950,
+            "display_name": "Drug id",
+            "item_attribute": true
+          },
+          {
+            "key": "name",
+            "value": "Gliclazide",
+            "display_name": "Drugs",
+            "item_attribute": true
+          },
+          {
+            "key": "other_strength",
+            "value": "60mg",
+            "display_name": "Other Strength"
+          },
+          {
+            "key": "pack_form",
+            "value": "strip",
+            "display_name": "Pack Form"
+          },
+          {
+            "key": "schedule",
+            "value": {
+              "id": "H",
+              "name": "H"
+            },
+            "display_name": "Schedule",
+            "item_attribute": true
+          },
+          {
+            "key": "strength",
+            "value": "60mg",
+            "display_name": "Strength"
+          },
+          {
+            "key": "symptoms",
+            "value": [],
+            "display_name": "Symptoms",
+            "item_attribute": true
+          },
+          {
+            "key": "therapeutic_class",
+            "value": {
+              "awacs": "ALIMENTARY TRACT AND METABOLISM/ANTI DIABETIC/ORAL ANTIDIABETICS"
+            },
+            "display_name": "Therapeutic Class",
+            "item_attribute": true
+          },
+          {
+            "key": "child_drug_id",
+            "value": 405727,
+            "display_name": "Child Drug Id",
+            "item_attribute": true
+          }
+        ],
+        "image_urls": [
+          "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/61db51e8-39c3-4e07-aa0a-6ab609938021.png"
+        ],
+        "is_visible": true,
+        "product_id": 15541,
+        "updated_at": 1682518130,
+        "l1_category": null,
+        "l2_category": null,
+        "pack_weight": 15,
+        "recommended": false,
+        "rx_required": true,
+        "consume_type": "Oral Route",
+        "infant_foods": false,
+        "manufacturer": {
+          "id": 56138,
+          "name": "Serdia Pharmaceuticals India Pvt Ltd"
+        },
+        "product_form": "Tablet XR",
+        "product_name": "Diamicron XR 60 Tablet",
+        "product_tags": [
+          "devices",
+          "fmcg"
+        ],
+        "selling_unit": 15,
+        "sub_category": "RX",
+        "is_returnable": true,
+        "min_order_qty": null,
+        "total_ratings": 0,
+        "units_in_pack": 15,
+        "allow_stamping": false,
+        "attributes_obj": {
+          "sku_tags": {
+            "value": [],
+            "display_name": "Sku Tags"
+          },
+          "risk_category": {
+            "value": "medium",
+            "display_name": "Risk Cateogry",
+            "item_attribute": true
+          },
+          "safety_advice": {
+            "value": null,
+            "display_name": "Safety Advice",
+            "item_attribute": true
+          },
+          "pharmacological_class": {
+            "value": "Sulfonylureas (Insulin Secretogogues)",
+            "display_name": "Pharmacological Class",
+            "item_attribute": true
+          }
+        },
+        "average_rating": 0,
+        "other_strength": "60mg",
+        "tax_definition": {
+          "cgst": 6,
+          "igst": 12,
+          "sgst": 6,
+          "utgst": 6,
+          "hsn_code": "30049099"
+        },
+        "child_skus_info": [],
+        "is_discontinued": false,
+        "otp_on_delivery": false,
+        "pack_size_label": "strip of 15 tablet xr",
+        "product_form_id": "pf_146",
+        "brand_primary_id": 23830,
+        "discounted_price": 203.28,
+        "onemg_cash_usage": [
+          {
+            "cash_type": "all",
+            "cash_percent": 8
+          }
+        ],
+        "business_category": {
+          "l1": {
+            "name": "RX"
+          },
+          "l2": {
+            "name": "ANTI DIABETIC"
+          },
+          "l3": {
+            "name": null
+          }
+        },
+        "product_form_info": {
+          "id": 146,
+          "name": "Tablet XR",
+          "name_plural": "tablet xr"
+        },
+        "supporting_fields": {
+          "is_psp": false,
+          "is_psp_dnd": false,
+          "is_nppa_regulated": false
+        },
+        "computed_unit_price": 15.6,
+        "dangerous_goods_tags": [],
+        "e_consult_applicable": true,
+        "is_coupon_applicable": true,
+        "prescription_required": false,
+        "prescription_verified": false,
+        "is_restricted_in_state": false,
+        "is_reward_point_eligible": true,
+        "prescription_check_required": false
+      },
+      "vas": [
+        {
+          "include": true,
+          "refundable": true,
+          "display_text": "Shipping Fee",
+          "is_mandatory": true,
+          "per_unit_sku_charge": 0,
+          "actual_per_unit_sku_charge": 0
+        },
+        {
+          "include": false,
+          "refundable": false,
+          "display_text": "Actual Shipping Fee",
+          "is_mandatory": false,
+          "per_unit_sku_charge": 0,
+          "actual_per_unit_sku_charge": 0
+        }
+      ],
+      "offer": {
+        "discount_percent": 0.2,
+        "unit_cart_item_mrp": 16.94,
+        "unit_offered_price": 13.552
+      },
+      "created": 1683176002,
+      "is_salt": false,
+      "updated": 1683176185,
+      "duration": null,
+      "quantity": 15,
+      "rx_mapping": {
+        "25976436": 1667260800000
+      },
+      "order_line_id": "817710",
+      "rapid_details": null,
+      "appointment_id": null,
+      "unit_vendor_mrp": 16.94,
+      "unit_current_mrp": 16.94,
+      "delivered_order_id": null,
+      "unit_cart_item_mrp": 16.94,
+      "unit_offered_price": 13.552,
+      "normalized_quantity": 1,
+      "prescription_status": "Ready for processing",
+      "prescription_verified": false,
+      "sku_validation_result": "",
+      "prescription_status_for_user": "Ready for processing"
+    },
+    {
+      "sku": {
+        "fmcg": false,
+        "name": "Ondero 5mg Tablet",
+        "type": "allopathy",
+        "brand": "Ondero",
+        "price": 309,
+        "sku_id": 323388,
+        "drug_id": 212189,
+        "freebie": false,
+        "is_salt": false,
+        "is_combo": false,
+        "saleable": true,
+        "strength": "5mg",
+        "sub_type": null,
+        "available": true,
+        "drug_name": "Linagliptin",
+        "is_banned": false,
+        "pediatric": false,
+        "attributes": [
+          {
+            "key": "category",
+            "value": "solids",
+            "display_name": "Category"
+          },
+          {
+            "key": "drug_form_plural",
+            "value": "tablets",
+            "display_name": "Drug form plural"
+          },
+          {
+            "key": "force_out_of_stock",
+            "value": false,
+            "display_name": "is salable"
+          },
+          {
+            "key": "item_size",
+            "value": 1,
+            "display_name": "Item Size"
+          },
+          {
+            "key": "item_unit",
+            "value": "",
+            "display_name": "Item unit"
+          },
+          {
+            "key": "is_otc",
+            "value": false,
+            "display_name": "sku otc tag"
+          },
+          {
+            "key": "is_banned",
+            "value": false,
+            "display_name": "sku banned flag"
+          },
+          {
+            "key": "prescription_required",
+            "value": true,
+            "display_name": "Prescription Required"
+          },
+          {
+            "key": "product_id",
+            "value": 526,
+            "display_name": "Product id"
+          },
+          {
+            "key": "product_type",
+            "value": "allopathy",
+            "display_name": "Product Type"
+          },
+          {
+            "key": "sku_pack_form_plural_name",
+            "value": "strips",
+            "display_name": "Pack Form Plural"
+          },
+          {
+            "key": "sku_tag",
+            "value": "allopathy",
+            "display_name": "Sku type"
+          },
+          {
+            "key": "source",
+            "value": "awacs",
+            "display_name": "source"
+          },
+          {
+            "key": "storage_temperature",
+            "value": {
+              "id": 2,
+              "name": "Room Temperature",
+              "to_degree": 30,
+              "from_degree": 10,
+              "display_text": "Store below 30°C"
+            },
+            "display_name": "Storage Temperature"
+          },
+          {
+            "key": "units_in_pack",
+            "value": 10,
+            "display_name": "Units in Pack"
+          },
+          {
+            "key": "dosage_duration",
+            "value": "Chronic",
+            "display_name": "Dosage duration",
+            "item_attribute": true
+          },
+          {
+            "key": "drug_form",
+            "value": "Tablet",
+            "display_name": "Drug Form"
+          },
+          {
+            "key": "item_id",
+            "value": 212189,
+            "display_name": "Drug id",
+            "item_attribute": true
+          },
+          {
+            "key": "name",
+            "value": "Linagliptin",
+            "display_name": "Drugs",
+            "item_attribute": true
+          },
+          {
+            "key": "other_strength",
+            "value": "5mg",
+            "display_name": "Other Strength"
+          },
+          {
+            "key": "pack_form",
+            "value": "strip",
+            "display_name": "Pack Form"
+          },
+          {
+            "key": "schedule",
+            "value": {
+              "id": "NS",
+              "name": "NS"
+            },
+            "display_name": "Schedule",
+            "item_attribute": true
+          },
+          {
+            "key": "strength",
+            "value": "5mg",
+            "display_name": "Strength"
+          },
+          {
+            "key": "symptoms",
+            "value": [],
+            "display_name": "Symptoms",
+            "item_attribute": true
+          },
+          {
+            "key": "therapeutic_class",
+            "value": {
+              "awacs": "ALIMENTARY TRACT AND METABOLISM/ANTI DIABETIC/ORAL ANTIDIABETICS"
+            },
+            "display_name": "Therapeutic Class",
+            "item_attribute": true
+          },
+          {
+            "key": "child_drug_id",
+            "value": 406186,
+            "display_name": "Child Drug Id",
+            "item_attribute": true
+          }
+        ],
+        "image_urls": [
+          "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hnoqdqu8zrnna17rn2f5.jpg"
+        ],
+        "is_visible": true,
+        "product_id": 526,
+        "updated_at": 1682518130,
+        "l1_category": null,
+        "l2_category": null,
+        "pack_weight": 10,
+        "recommended": false,
+        "rx_required": true,
+        "consume_type": "Oral Route",
+        "infant_foods": false,
+        "manufacturer": {
+          "id": 73115,
+          "name": "Lupin Ltd"
+        },
+        "product_form": "Tablet",
+        "product_name": "Ondero 5mg Tablet",
+        "product_tags": [
+          "devices",
+          "fmcg"
+        ],
+        "selling_unit": 10,
+        "sub_category": "RX",
+        "is_returnable": true,
+        "min_order_qty": null,
+        "total_ratings": 0,
+        "units_in_pack": 10,
+        "allow_stamping": false,
+        "attributes_obj": {
+          "sku_tags": {
+            "value": [],
+            "display_name": "Sku Tags"
+          },
+          "risk_category": {
+            "value": "medium",
+            "display_name": "Risk Cateogry",
+            "item_attribute": true
+          },
+          "safety_advice": {
+            "value": null,
+            "display_name": "Safety Advice",
+            "item_attribute": true
+          },
+          "pharmacological_class": {
+            "value": "DPP-4 inhibitors",
+            "display_name": "Pharmacological Class",
+            "item_attribute": true
+          }
+        },
+        "average_rating": 0,
+        "other_strength": "5mg",
+        "tax_definition": {
+          "cgst": 6,
+          "igst": 12,
+          "sgst": 6,
+          "utgst": 6,
+          "hsn_code": "30049099"
+        },
+        "child_skus_info": [],
+        "is_discontinued": false,
+        "otp_on_delivery": false,
+        "pack_size_label": "strip of 10 tablets",
+        "product_form_id": "pf_134",
+        "brand_primary_id": 620,
+        "discounted_price": 247.2,
+        "onemg_cash_usage": [
+          {
+            "cash_type": "real",
+            "cash_percent": 10
+          }
+        ],
+        "business_category": {
+          "l1": {
+            "name": "RX"
+          },
+          "l2": {
+            "name": "ANTI DIABETIC"
+          },
+          "l3": {
+            "name": null
+          }
+        },
+        "product_form_info": {
+          "id": 134,
+          "name": "Tablet",
+          "name_plural": "tablets"
+        },
+        "supporting_fields": {
+          "is_psp": false,
+          "is_psp_dnd": false
+        },
+        "computed_unit_price": 29,
+        "dangerous_goods_tags": [],
+        "e_consult_applicable": true,
+        "is_coupon_applicable": true,
+        "prescription_required": false,
+        "prescription_verified": false,
+        "is_restricted_in_state": false,
+        "is_reward_point_eligible": true,
+        "prescription_check_required": false
+      },
+      "vas": [
+        {
+          "include": true,
+          "refundable": true,
+          "display_text": "Shipping Fee",
+          "is_mandatory": true,
+          "per_unit_sku_charge": 0,
+          "actual_per_unit_sku_charge": 0
+        },
+        {
+          "include": false,
+          "refundable": false,
+          "display_text": "Actual Shipping Fee",
+          "is_mandatory": false,
+          "per_unit_sku_charge": 0,
+          "actual_per_unit_sku_charge": 0
+        }
+      ],
+      "offer": {
+        "discount_percent": 0.2,
+        "unit_cart_item_mrp": 30.9,
+        "unit_offered_price": 24.72
+      },
+      "created": 1683176030,
+      "is_salt": false,
+      "updated": 1683176185,
+      "duration": null,
+      "quantity": 20,
+      "rx_mapping": {
+        "25976436": 1667260800000,
+        "25976668": 1675987200000
+      },
+      "order_line_id": "323388",
+      "rapid_details": null,
+      "appointment_id": null,
+      "unit_vendor_mrp": 30.9,
+      "unit_current_mrp": 30.9,
+      "delivered_order_id": null,
+      "unit_cart_item_mrp": 30.9,
+      "unit_offered_price": 24.72,
+      "normalized_quantity": 2,
+      "prescription_status": "Ready for processing",
+      "prescription_verified": false,
+      "sku_validation_result": "",
+      "prescription_status_for_user": "Ready for processing"
+    }
+  ],
+  "reorderable": false,
+  "order_choice": "Call me for details",
+  "patient_name": "Runa Das,Diptendu Das",
+  "prescription": [
+    {
+      "id": 25976668,
+      "erx": false,
+      "size": 104000,
+      "user": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "active": true,
+      "source": "order_mobileweb",
+      "status": "Completed",
+      "created": 1678597993348,
+      "updated": 1680240545029,
+      "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "file_attr": [
+        {
+          "size": "104000",
+          "width": 1440,
+          "format": "jpeg",
+          "height": 1920,
+          "file_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/3da73372-1f83-4dc2-a468-3d518fb4f147.jpeg",
+          "file_name": "3da73372-1f83-4dc2-a468-3d518fb4f147.jpeg",
+          "public_id": "3da73372-1f83-4dc2-a468-3d518fb4f147.jpeg",
+          "resource_type": "image",
+          "file_check_sum": "14203531847e794d6fcfb9ca4438b645",
+          "file_scaled_down_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/3da73372-1f83-4dc2-a468-3d518fb4f147.jpeg"
+        }
+      ],
+      "patient_id": "4c4d7fe8-acd6-4a28-b578-7e150ee4e369",
+      "doctor_guid": "",
+      "doctor_name": "t k majumdar",
+      "patient_age": 63,
+      "appointments": [
+        {
+          "id": 19866334,
+          "diseases": null,
+          "symptoms": null,
+          "lab_tests": null,
+          "medicines": [
+            {
+              "order": 1,
+              "price": "172.03",
+              "job_id": 21751624,
+              "item_id": 358350,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "75mcg",
+              "frequency": "1",
+              "item_name": "Thyronorm 75mcg Tablet 120Tablet(Abbott)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "28835",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 1,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 2,
+              "price": "84.9",
+              "job_id": 21751624,
+              "item_id": 69077,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg",
+              "frequency": "1",
+              "item_name": "Dytor 10 Tablet 15Tablet(Cipla Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "23779",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 1,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 3,
+              "price": "569.3",
+              "job_id": 21751624,
+              "item_id": 126003,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "5mg",
+              "frequency": "2",
+              "item_name": "Minipress XL 5mg Tablet 30Tablet(Pfizer Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "13106",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 2,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 4,
+              "price": "242.4",
+              "job_id": 21751624,
+              "item_id": 460916,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg+75mg",
+              "frequency": "1",
+              "item_name": "Clopitab-CV 10 Capsule 15Capsule(Lupin Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "10013",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 1,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 5,
+              "price": "176.13",
+              "job_id": 21751624,
+              "item_id": 621485,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg",
+              "frequency": "1",
+              "item_name": "Cilacar 10 Tablet 15Tablet(J B Chemicals and Pharmaceuticals Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "24184",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 1,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 6,
+              "price": "309.0",
+              "job_id": 21751624,
+              "item_id": 323388,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "5mg",
+              "frequency": "1",
+              "item_name": "Ondero 5mg Tablet 10Tablet(Lupin Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "526",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 1,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 7,
+              "price": "",
+              "job_id": 21751624,
+              "item_id": 210268,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "25mg",
+              "frequency": "2",
+              "item_name": "Metoprolol Succinate",
+              "item_type": "2",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 2,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 8,
+              "price": "202.61",
+              "job_id": 21751624,
+              "item_id": 340679,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "40mg",
+              "frequency": "1",
+              "item_name": "Telma 40 Tablet 30Tablet(Glenmark Pharmaceuticals Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "16351",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866334,
+              "frequency_value": 1,
+              "prescription_id": 25976668,
+              "is_substitute_allowed": false
+            }
+          ],
+          "expires_in": null,
+          "date_of_visit": 1675987200000,
+          "prescription_id": 25976668,
+          "lab_tests_present": false,
+          "patient_test_report": null,
+          "prescription_expiry_date": 1683176185000
+        }
+      ],
+      "other_detail": {
+        "is_digital_rx": false,
+        "is_substitute_allowed": false
+      },
+      "patient_name": "Diptendu Das",
+      "doctor_emails": null,
+      "hospital_name": "t k majumdar clinic",
+      "doctor_address": "",
+      "patient_gender": "1",
+      "patient_created": 1678597993348,
+      "patient_email_id": "rudradeepdas5@gmail.com",
+      "doctor_qualification": null,
+      "doctor_mobile_numbers": [
+        ""
+      ],
+      "parent_prescription_id": null,
+      "patient_contact_number": null,
+      "doctor_landline_numbers": null
+    },
+    {
+      "id": 27213220,
+      "erx": false,
+      "size": 100948,
+      "user": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "active": true,
+      "source": "order_mobileweb",
+      "status": "In-progress",
+      "created": 1683175743623,
+      "updated": 1683175743623,
+      "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "file_attr": [
+        {
+          "size": "100948",
+          "width": 1440,
+          "format": "jpeg",
+          "height": 1920,
+          "file_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/f4a04c9c-5326-404d-b79b-0d73dc99031d.jpeg",
+          "file_name": "f4a04c9c-5326-404d-b79b-0d73dc99031d.jpeg",
+          "public_id": "f4a04c9c-5326-404d-b79b-0d73dc99031d.jpeg",
+          "resource_type": "image",
+          "file_check_sum": "030969db417e8e22871db5b1559b2aa0",
+          "file_scaled_down_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/f4a04c9c-5326-404d-b79b-0d73dc99031d.jpeg"
+        }
+      ],
+      "patient_id": null,
+      "doctor_guid": null,
+      "doctor_name": "",
+      "patient_age": null,
+      "appointments": null,
+      "other_detail": null,
+      "patient_name": "",
+      "doctor_emails": null,
+      "hospital_name": null,
+      "doctor_address": null,
+      "patient_gender": null,
+      "patient_created": 1683175743623,
+      "patient_email_id": "rudradeepdas5@gmail.com",
+      "doctor_qualification": null,
+      "doctor_mobile_numbers": null,
+      "parent_prescription_id": null,
+      "patient_contact_number": null,
+      "doctor_landline_numbers": null
+    },
+    {
+      "id": 25976436,
+      "erx": false,
+      "size": 154598,
+      "user": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "active": true,
+      "source": "order_mobileweb",
+      "status": "Completed",
+      "created": 1678597579711,
+      "updated": 1678600911539,
+      "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "file_attr": [
+        {
+          "size": "154598",
+          "width": 1440,
+          "format": "jpeg",
+          "height": 1920,
+          "file_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/a0e713a4-a008-4ef9-bffa-ec84cc7e073d.jpeg",
+          "file_name": "a0e713a4-a008-4ef9-bffa-ec84cc7e073d.jpeg",
+          "public_id": "a0e713a4-a008-4ef9-bffa-ec84cc7e073d.jpeg",
+          "resource_type": "image",
+          "file_check_sum": "43b589430786036186ec8b2727df774f",
+          "file_scaled_down_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/a0e713a4-a008-4ef9-bffa-ec84cc7e073d.jpeg"
+        }
+      ],
+      "patient_id": "4c4d7fe8-acd6-4a28-b578-7e150ee4e369",
+      "doctor_guid": "",
+      "doctor_name": "t k majumdar",
+      "patient_age": 63,
+      "appointments": [
+        {
+          "id": 19525877,
+          "diseases": null,
+          "symptoms": null,
+          "lab_tests": null,
+          "medicines": [
+            {
+              "order": 1,
+              "price": "202.61",
+              "job_id": 21386006,
+              "item_id": 340679,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "40mg",
+              "frequency": "1",
+              "item_name": "Telma 40 Tablet 30Tablet(Glenmark Pharmaceuticals Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "16351",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 2,
+              "price": "242.4",
+              "job_id": 21386006,
+              "item_id": 460916,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg+75mg",
+              "frequency": "1",
+              "item_name": "Clopitab-CV 10 Capsule 15Capsule(Lupin Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "10013",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 3,
+              "price": "309.0",
+              "job_id": 21386006,
+              "item_id": 323388,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "5mg",
+              "frequency": "1",
+              "item_name": "Ondero 5mg Tablet 10Tablet(Lupin Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "526",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 4,
+              "price": "291.28",
+              "job_id": 21386006,
+              "item_id": 300313,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "25mg",
+              "frequency": "1",
+              "item_name": "Apresol Tablet 30Tablet(Ordain Health Care Global Pvt Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "26822",
+              "old_item_id": 300313,
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "old_item_type": "1",
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 5,
+              "price": "569.3",
+              "job_id": 21386006,
+              "item_id": 126003,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "5mg",
+              "frequency": "1",
+              "item_name": "Minipress XL 5mg Tablet 30Tablet(Pfizer Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "13106",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 6,
+              "price": "75.09",
+              "job_id": 21386006,
+              "item_id": 297319,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "23.75mg",
+              "frequency": "1",
+              "item_name": "Metolar XR 25 Capsule 15Capsule ER(Cipla Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "22367",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": true
+            },
+            {
+              "order": 7,
+              "price": "176.13",
+              "job_id": 21386006,
+              "item_id": 621485,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg",
+              "frequency": "2",
+              "item_name": "Cilacar 10 Tablet 15Tablet(J B Chemicals and Pharmaceuticals Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "24184",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 2,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 8,
+              "price": "231.0",
+              "job_id": 21386006,
+              "item_id": 189550,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "60mg",
+              "frequency": "1",
+              "item_name": "Diamicron XR 60 Tablet 14Tablet XR(Serdia Pharmaceuticals India Pvt Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "15541",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 9,
+              "price": "172.03",
+              "job_id": 21386006,
+              "item_id": 358350,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "75mcg",
+              "frequency": "1",
+              "item_name": "Thyronorm 75mcg Tablet 120Tablet(Abbott)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "28835",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 10,
+              "price": "84.9",
+              "job_id": 21386006,
+              "item_id": 69077,
+              "duration": "1095",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg",
+              "frequency": "1",
+              "item_name": "Dytor 10 Tablet 15Tablet(Cipla Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "23779",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19525877,
+              "frequency_value": 1,
+              "prescription_id": 25976436,
+              "is_substitute_allowed": false
+            }
+          ],
+          "expires_in": null,
+          "date_of_visit": 1667260800000,
+          "prescription_id": 25976436,
+          "lab_tests_present": false,
+          "patient_test_report": null,
+          "prescription_expiry_date": 1683176185000
+        }
+      ],
+      "other_detail": {
+        "is_digital_rx": false,
+        "is_substitute_allowed": false
+      },
+      "patient_name": "Diptendu Das",
+      "doctor_emails": null,
+      "hospital_name": "t k majumdar clinic",
+      "doctor_address": "",
+      "patient_gender": "1",
+      "patient_created": 1678597579711,
+      "patient_email_id": "rudradeepdas5@gmail.com",
+      "doctor_qualification": null,
+      "doctor_mobile_numbers": [
+        ""
+      ],
+      "parent_prescription_id": null,
+      "patient_contact_number": null,
+      "doctor_landline_numbers": null
+    },
+    {
+      "id": 26440149,
+      "erx": true,
+      "size": 25560,
+      "user": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "active": true,
+      "source": "doctors_erx",
+      "status": "Completed",
+      "created": 1680240843792,
+      "updated": 1680240844519,
+      "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "file_attr": [
+        {
+          "size": 25560,
+          "width": 1440,
+          "format": "pdf",
+          "height": 1920,
+          "file_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/ffbb0bf8-d8ab-4aea-8843-3238d3680375.pdf",
+          "file_name": "ffbb0bf8-d8ab-4aea-8843-3238d3680375.pdf",
+          "public_id": "ffbb0bf8-d8ab-4aea-8843-3238d3680375.pdf",
+          "resource_type": "image",
+          "file_check_sum": "c81113a43985bf9a16d3c1801056e3cc",
+          "file_scaled_down_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/ffbb0bf8-d8ab-4aea-8843-3238d3680375.pdf"
+        }
+      ],
+      "patient_id": "027f13e1-984b-4164-86a8-5308e604f501",
+      "doctor_guid": null,
+      "doctor_name": "Dr. Ramanjit Kaur",
+      "patient_age": 68,
+      "appointments": [
+        {
+          "id": 19866507,
+          "diseases": null,
+          "symptoms": null,
+          "lab_tests": null,
+          "medicines": [
+            {
+              "order": 1,
+              "price": "30.06",
+              "job_id": 21752792,
+              "item_id": 74467,
+              "duration": "30",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "650mg",
+              "frequency": "1",
+              "item_name": "Dolo 650 Tablet 15Tablet(Micro Labs Ltd)",
+              "item_type": "1",
+              "meal_type": "2",
+              "product_id": "23979",
+              "item_chronic": "Acute",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866507,
+              "frequency_value": 1,
+              "prescription_id": 26440149
+            }
+          ],
+          "expires_in": null,
+          "date_of_visit": 1680220800000,
+          "prescription_id": 26440149,
+          "lab_tests_present": null,
+          "patient_test_report": null,
+          "prescription_expiry_date": 1683176185000
+        }
+      ],
+      "other_detail": {
+        "is_digital_rx": true,
+        "is_substitute_allowed": true
+      },
+      "patient_name": "Runa Das",
+      "doctor_emails": null,
+      "hospital_name": null,
+      "doctor_address": "Government Medical College & Hospital, Chandigarh, Chandi Path, Sector 32B, 32B, Sector 32, Chandigarh, Chandigarh, Chandigarh - 160047, India",
+      "patient_gender": "2",
+      "patient_created": 1680240843792,
+      "patient_email_id": "rudradeepdas5@gmail.com",
+      "doctor_qualification": null,
+      "doctor_mobile_numbers": [
+        "7973664078"
+      ],
+      "parent_prescription_id": null,
+      "patient_contact_number": null,
+      "doctor_landline_numbers": null
+    },
+    {
+      "id": 26437977,
+      "erx": false,
+      "size": 108029,
+      "user": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "active": true,
+      "source": "order_mobileweb",
+      "status": "Completed",
+      "created": 1680235040108,
+      "updated": 1680240205292,
+      "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+      "file_attr": [
+        {
+          "size": "108029",
+          "width": 1440,
+          "format": "jpeg",
+          "height": 1920,
+          "file_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/7192b9d7-07bd-42d0-b0ad-b6b20a9736ac.jpeg",
+          "file_name": "7192b9d7-07bd-42d0-b0ad-b6b20a9736ac.jpeg",
+          "public_id": "7192b9d7-07bd-42d0-b0ad-b6b20a9736ac.jpeg",
+          "resource_type": "image",
+          "file_check_sum": "d7e0894715dc21bc6a9dca20c0602a63",
+          "file_scaled_down_url": "https://s3.ap-south-1.amazonaws.com/1mg-auto-resize-image/pharmacy-production-rxs/7192b9d7-07bd-42d0-b0ad-b6b20a9736ac.jpeg"
+        }
+      ],
+      "patient_id": "9f716d9e-e1d0-4b94-8654-708ce1ec37e3",
+      "doctor_guid": "",
+      "doctor_name": "t k majumdar",
+      "patient_age": 58,
+      "appointments": [
+        {
+          "id": 19866245,
+          "diseases": null,
+          "symptoms": null,
+          "lab_tests": null,
+          "medicines": [
+            {
+              "order": 1,
+              "price": "60.5",
+              "job_id": 21751623,
+              "item_id": 120094,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "0.5mg",
+              "frequency": "1",
+              "item_name": "GP 0.5 Tablet 10Tablet(USV Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "33938",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 1,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 2,
+              "price": "163.0",
+              "job_id": 21751623,
+              "item_id": 17412,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "100mg",
+              "frequency": "1",
+              "item_name": "Repace 100 Tablet 10Tablet(Sun Pharmaceutical Industries Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "19020",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 1,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 3,
+              "price": "208.0",
+              "job_id": 21751623,
+              "item_id": 648475,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "40mg",
+              "frequency": "5",
+              "item_name": "Febutaz 40 Tablet 15Tablet(Sun Pharmaceutical Industries Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "24155",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 0.5,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 4,
+              "price": "108.0",
+              "job_id": 21751623,
+              "item_id": 60045,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "5mg",
+              "frequency": "1",
+              "item_name": "Rozavel 5 Tablet 10Tablet(Sun Pharmaceutical Industries Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "53158",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 1,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 5,
+              "price": "194.0",
+              "job_id": 21751623,
+              "item_id": 31083,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "10mg",
+              "frequency": "1",
+              "item_name": "Rozavel 10 Tablet 10Tablet(Sun Pharmaceutical Industries Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "53938",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 1,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 6,
+              "price": "293.67",
+              "job_id": 21751623,
+              "item_id": 519817,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "60000IU",
+              "frequency": "6",
+              "item_name": "Uprise-D3 60K Capsule 8Capsule(Alkem Laboratories Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "87335",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 0.14,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 7,
+              "price": "155.0",
+              "job_id": 21751623,
+              "item_id": 325250,
+              "duration": "180",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "40mg",
+              "frequency": "1",
+              "item_name": "PAN 40 Tablet 15Tablet(Alkem Laboratories Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "2028",
+              "item_chronic": "Chronic",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 1,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 8,
+              "price": "19.94",
+              "job_id": 21751623,
+              "item_id": 71116,
+              "duration": "60",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "650mg",
+              "frequency": "3",
+              "item_name": "P 650 Tablet 10Tablet(Apex Laboratories Pvt Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "7315",
+              "item_chronic": "Acute",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 3,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 9,
+              "price": "2024.0",
+              "job_id": 21751623,
+              "item_id": 852491,
+              "duration": "60",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "NA",
+              "frequency": "9",
+              "item_name": "Influvac Tetra 2023 Vaccine 1Suspension for Injection(Abbott)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "489894",
+              "item_chronic": "Acute",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 0.04,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            },
+            {
+              "order": 10,
+              "price": "2100.0",
+              "job_id": 21751623,
+              "item_id": 610718,
+              "duration": "60",
+              "job_type": "digitizer",
+              "quantity": "1",
+              "strength": "25mcg",
+              "frequency": "9",
+              "item_name": "Pneumovax 23 Vaccine 1Injection(MSD Pharmaceuticals Pvt Ltd)",
+              "item_type": "1",
+              "meal_type": "0",
+              "job_status": "10",
+              "product_id": "12172",
+              "item_chronic": "Acute",
+              "type_of_jobs": [
+                "digitizer"
+              ],
+              "appointment_id": 19866245,
+              "frequency_value": 0.04,
+              "prescription_id": 26437977,
+              "is_substitute_allowed": false
+            }
+          ],
+          "expires_in": null,
+          "date_of_visit": 1680134400000,
+          "prescription_id": 26437977,
+          "lab_tests_present": false,
+          "patient_test_report": null,
+          "prescription_expiry_date": 1683176185000
+        }
+      ],
+      "other_detail": {
+        "is_digital_rx": false,
+        "is_substitute_allowed": false
+      },
+      "patient_name": "Runa Das",
+      "doctor_emails": null,
+      "hospital_name": "t k majumdar clinic",
+      "doctor_address": "",
+      "patient_gender": "2",
+      "patient_created": 1680235040108,
+      "patient_email_id": "rudradeepdas5@gmail.com",
+      "doctor_qualification": null,
+      "doctor_mobile_numbers": [
+        ""
+      ],
+      "parent_prescription_id": null,
+      "patient_contact_number": null,
+      "doctor_landline_numbers": null
+    }
+  ],
+  "are_rx_queued": false,
+  "customer_name": "Diptendu Das",
+  "ready_to_ship": false,
+  "cashless_limit": 12000,
+  "coupon_details": [],
+  "is_split_order": false,
+  "is_eta_breached": false,
+  "payment_summary": {
+    "vas": [],
+    "mode": "COD",
+    "cart_mrp": 2037.22,
+    "onemg_id": null,
+    "payments": [],
+    "order_mrp": 1629.7759999999998,
+    "tcp_earned": 0,
+    "current_mrp": 2037.2199999999998,
+    "gateway_name": "COD",
+    "total_payment": 0,
+    "amount_payable": 1629.78,
+    "discounted_mrp": 1629.7759999999998,
+    "transaction_id": null,
+    "cashback_earned": 0,
+    "coupon_discount": 0,
+    "cashback_availed": 0,
+    "instant_discount": 0,
+    "online_collected": 0,
+    "shipping_charges": 0,
+    "total_refund_due": 0,
+    "online_refund_due": 0,
+    "refunded_cashback": 0,
+    "additional_charges": [],
+    "allow_payment_retry": false,
+    "cashback_refund_due": 0,
+    "payments_refund_due": 0,
+    "check_cod_eligibility": false,
+    "online_pending_amount": 0,
+    "total_refunded_amount": 0,
+    "online_payment_tenders": {},
+    "gateway_aggregator_name": "",
+    "online_refund_initiated": 0,
+    "payment_instrument_details": {}
+  },
+  "shipment_detail": {
+    "vendor": {},
+    "fe_name": null,
+    "invoice_url": null,
+    "refund_date": "None",
+    "rvp_details": {},
+    "tracking_url": "https://www.1mg.com/trackOrder?orderId=PO12323173523905&emailAddress=rudradeepdas5@gmail.com",
+    "delivery_date": "",
+    "package_weight": null,
+    "fe_phone_number": null,
+    "shipping_labels": null,
+    "tracking_number": null,
+    "amount_collected": null,
+    "delivery_retries": 0,
+    "shipping_charges": 0,
+    "vendor_bill_date": null,
+    "shipping_area_code": null,
+    "vendor_bill_number": null,
+    "shipment_picked_date": "",
+    "vendor_billed_amount": null,
+    "actual_shipping_charge": 0,
+    "delivery_partners_code": null,
+    "delivery_reference_number": null
+  },
+  "delivery_address": {
+    "id": 22302012,
+    "eta": {},
+    "city": "Kolkata",
+    "name": "Diptendu Das",
+    "state": "West Bengal",
+    "active": true,
+    "country": "IN",
+    "created": 1678597717207,
+    "pincode": "700041",
+    "street1": "56A/92 Putiary Banerjee Para Road SBI Complex Plot 27 Kolkata",
+    "street2": "",
+    "street3": "",
+    "updated": 1678597717207,
+    "user_id": "0d48a236-97f3-4039-bf5d-fb7d3abbddf2",
+    "landmark": "",
+    "latitude": 22.4777281,
+    "locality": "",
+    "locality2": null,
+    "longitude": 88.34177570000001,
+    "cluster_id": 1,
+    "locality_id": null,
+    "address_name": null,
+    "address_type": "home",
+    "contact_number": "9674713050",
+    "geodata_source": "google",
+    "last_order_date": 1683089668147,
+    "geodata_latitude": 22.4777281,
+    "geodata_longitude": 88.34177570000001,
+    "is_formatted_address": true,
+    "is_geodata_user_verified": false
+  },
+  "duration_in_days": "",
+  "instant_discount": null,
+  "split_order_date": null,
+  "order_meta_source": "sbi_retiree",
+  "all_digitized_skus": null,
+  "benefit_start_date": "2023-01-19 11:05:07+00:00",
+  "rapid_delivery_eta": null,
+  "is_loyalty_customer": true,
+  "screening_2_accepted": false,
+  "special_instructions": "",
+  "free_shipping_benefit": false,
+  "prescription_verified": false,
+  "contains_digital_items": false,
+  "collection_from_fe_date": null,
+  "order_choice_instruction": "",
+  "delivery_reference_number": null,
+  "collection_handed_over_date": null,
+  "all_skus_require_prescription": null,
+  "order_collected_from_fe_by_tl": null,
+  "screening_job_priority_status": null
+}
